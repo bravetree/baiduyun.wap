@@ -16,6 +16,9 @@
 ### 插件功能
 - 获取百度网盘手机端的真实下载地址，加快下载速度
 
+### PC端脚本
+[百度网盘直链下载助手](https://greasyfork.org/zh-CN/scripts/39504)
+
 ### 速度测试
 ![](https://ws1.sinaimg.cn/large/4db689e3ly1g2dwvstg43j20dp08sdgb.jpg)
 
