@@ -7,7 +7,7 @@
 [脚本使用说明](https://github.com/syhyz1990/baiduyun.wap/blob/master/help.md)
 
 ### 安装地址
-[安装地址](https://greasyfork.org/zh-CN/scripts/39504)
+[安装地址](https://greasyfork.org/zh-CN/scripts/382175)
 
 ### 更新日志
 
@@ -17,7 +17,7 @@
 - 获取百度网盘手机端的真实下载地址，加快下载速度
 
 ### 速度测试
-![](https://ws1.sinaimg.cn/large/4db689e3ly1g2dw7qarltg20u01qgu0z.gif)
+![](https://ws1.sinaimg.cn/large/4db689e3ly1g2dwvstg43j20dp08sdgb.jpg)
 
 ### 注意事项
 请在我的网盘中使用，暂不支持分享页面（请先把分享页面文件保存到我的网盘中使用）

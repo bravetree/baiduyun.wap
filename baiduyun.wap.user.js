@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name              百度网盘直链下载助手-手机版
 // @namespace         https://github.com/syhyz1990/baiduyun.wap
-// @version           1.0.4
+// @version           1.0.0
 // @icon              https://www.baidu.com/favicon.ico
 // @description       百度网盘直链下载助手-手机版 支持从百度网盘手机端获取直链下载地址
 // @author            syhyz1990
