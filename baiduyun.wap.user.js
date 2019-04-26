@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name              百度网盘直链下载助手-手机版
 // @namespace         https://github.com/syhyz1990/baiduyun.wap
-// @version           1.1.0
+// @version           1.1.1
 // @icon              https://www.baidu.com/favicon.ico
 // @description       百度网盘直链下载助手-手机版 支持百度网盘手机端网盘页面和分享页面一键下载
 // @author            syhyz1990
@@ -9,8 +9,8 @@
 // @supportURL        https://github.com/syhyz1990/baiduyun.wap
 // @match             *://pan.baidu.com/s/*
 // @match             *://yun.baidu.com/s/*
-// @match             *://pan.baidu.com/wap/link?surl=*
-// @match             *://yun.baidu.com/wap/link?surl=*
+// @match             *://pan.baidu.com/wap/*surl=*
+// @match             *://yun.baidu.com/wap/*surl=*
 // @match             *://pan.baidu.com/wap/view*
 // @match             *://yun.baidu.com/wap/view*
 // @require           https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js
@@ -332,7 +332,7 @@
 
   function detectPage() {
     var href = location.href;
-    if (href.indexOf('/s/') > 0 || href.indexOf('link?surl=') > 0) {
+    if (href.indexOf('/s/') > 0 || href.indexOf('surl=') > 0) {
       return 'share';
     }
     return 'home';
