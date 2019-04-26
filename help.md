@@ -3,7 +3,7 @@
 
 ### 安装教程
 
-#### 一、安装Kiwi浏览器和Tampermonkey插件
+#### 一、安装Kimi浏览器和Tampermonkey插件
 
 下载地址：https://www.lanzous.com/i3uhhah
 
@@ -31,9 +31,9 @@
 
 下载地址 : 百度搜下
 
-软件安装成功后进入设置 -> 下载中 -> 浏览器标识 -> 改成 Android 百度云
+软件安装成功后进入设置 -> 下载中 -> 浏览器标识 -> 改成 自定义，内容为
+netdisk;6.7.1.9;PC;PC-Windows;10.0.17763;WindowsBaiduYunGuanJia
 
-![](https://ws1.sinaimg.cn/large/4db689e3ly1g2dxgolx5ij20cj0eojrw.jpg)
 
 ### 使用说明
 
@@ -41,6 +41,7 @@
 
 ![](https://ws1.sinaimg.cn/large/4db689e3ly1g2dxv6jv6dj20dm0mzdj3.jpg)
 
+分享页面直接点击【下载助手】会调用浏览器进行下载
 
 ### 常见问题
 
@@ -48,15 +49,15 @@
 
 A1: 只有在我的网盘里的文件会显示下载助手哦，分享页面请先保存到我的网盘
 
-**Q: 链接复制到ADM中提示错误**
+**Q: 链接复制到ADM中提示访问被拒绝**
 
-A: 确保浏览器标识正确的情况下换用其他下载链接进行重试
+A: 尝试将ADM UA 修改为netdisk;6.7.1.9;PC;PC-Windows;10.0.17763;WindowsBaiduYunGuanJia
 
 **Q: 下载速度很慢 , 只有几百K**
 
-A: 调节ADM线程数
+A: 调节ADM线程数或购买百度会员
 
 ### 捐赠
-本脚本不收取任何费用 , 如果您觉得本脚本对您有帮助，您可以通过支付宝或微信，扫描二维码，捐赠 X元，也可以扫码领取支付宝红包，^_^，谢谢！
+本脚本免费使用 , 如果您觉得本脚本对您有帮助，您可以通过支付宝或微信，扫描二维码，捐赠 X元，也可以扫码领取支付宝红包，^_^，谢谢！
 
  ![微信](https://ww1.sinaimg.cn/large/4db689e3ly1g0ae1ogfjbj205k05yjrl.jpg) ![支付宝](https://ww1.sinaimg.cn/large/4db689e3ly1g0ae1oc3o4j205k05yweg.jpg) 

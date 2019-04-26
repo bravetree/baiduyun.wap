@@ -1,6 +1,13 @@
 # 百度网盘直链下载助手-手机版
 ![TamperMonkey v4.8](https://img.shields.io/badge/TamperMonkey-v4.8-brightgreen.svg) ![Kiwi](https://img.shields.io/badge/Kiwi%20x64-v73.0-brightgreen.svg)
 
+### 脚本简介
+本脚本适用于移动端支持安装 Tampermonkey 或 暴力猴的浏览器，如Kimi，Yandex。
+
+支持百度网盘移动端网页获取分享链接下载地址和我的网盘下载地址。安装后会在对应界面出现【下载助手】按钮
+
+PC端请下载 [百度网盘直链下载助手](https://greasyfork.org/zh-CN/scripts/39504)  **不要同时安装**
+
 ### 如何使用
  ↓↓ 先看这里 ↓↓
 
@@ -10,6 +17,8 @@
 [安装地址](https://greasyfork.org/zh-CN/scripts/382175)
 
 ### 更新日志
+
+**2019-04-24** : v1.1.0 支持从百度网盘Wap端分享页面下载文件
 
 **2019-04-24** : v1.0.0 支持在我的网盘里获取直链
 
