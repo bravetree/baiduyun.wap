@@ -29,7 +29,7 @@ PC端请下载 [百度网盘直链下载助手](https://greasyfork.org/zh-CN/scr
 [百度网盘直链下载助手](https://greasyfork.org/zh-CN/scripts/39504)
 
 ### 速度测试
-![](https://ws1.sinaimg.cn/large/4db689e3ly1g2dwvstg43j20dp08sdgb.jpg)
+![](http://ws1.sinaimg.cn/large/4db689e3ly1g2dwvstg43j20dp08sdgb.jpg)
 
 ### 注意事项
 请在我的网盘中使用，暂不支持分享页面（请先把分享页面文件保存到我的网盘中使用）
@@ -37,7 +37,7 @@ PC端请下载 [百度网盘直链下载助手](https://greasyfork.org/zh-CN/scr
 ### 捐赠
 如果您觉得脚本对您有帮助，您可以通过支付宝或微信，扫描二维码，捐赠 X元，^_^，谢谢！
  
- ![微信](https://ww1.sinaimg.cn/large/4db689e3ly1g0ae1ogfjbj205k05yjrl.jpg) ![支付宝](https://ww1.sinaimg.cn/large/4db689e3ly1g0ae1oc3o4j205k05yweg.jpg) 
+ ![微信](http://ww1.sinaimg.cn/large/4db689e3ly1g0ae1ogfjbj205k05yjrl.jpg) ![支付宝](http://ww1.sinaimg.cn/large/4db689e3ly1g0ae1oc3o4j205k05yweg.jpg) 
 
 ### 免责声明 
 本脚本仅在浏览器端运行，源码公开可见，仅做研究使用，不得用于非法获利， 如产生法律纠纷与脚本作者无关!!!
